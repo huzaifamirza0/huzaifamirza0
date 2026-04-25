@@ -97,7 +97,7 @@ Cross-platform Flutter app with AI features and rich multimedia experiences.
 
 ## 💬 Let's Connect
 
-I'm open to **senior Flutter / full-stack / AI engineering roles** where depth matters.
+I'm open to **Flutter / full-stack / AI engineering roles** where depth matters.
 
 📧 mirzahuzaifa138@gmail.com  
 🔗 [linkedin.com/in/muhammad-huzaifa-mirza](https://linkedin.com/in/muhammad-huzaifa-mirza)
