@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/m-huzaifa-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://huzaifamirza0.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="mailto:mirzahuzaifa138@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -38,11 +41,19 @@ I'm a Flutter + Backend engineer with **2.5 years** of experience building real 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+**Languages**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **AI / ML**
 
@@ -97,7 +108,8 @@ Cross-platform Flutter app with AI features and rich multimedia experiences.
 
 ## 💬 Let's Connect
 
-I'm open to **Flutter / full-stack / AI engineering roles** where depth matters.
+I'm open to **senior Flutter / full-stack / AI engineering roles** where depth matters.
 
 📧 mirzahuzaifa138@gmail.com  
-🔗 [linkedin.com/in/muhammad-huzaifa-mirza](https://linkedin.com/in/muhammad-huzaifa-mirza)
+🔗 [linkedin.com/in/m-huzaifa-developer](https://www.linkedin.com/in/m-huzaifa-developer/)  
+🌐 [huzaifamirza0.github.io](https://huzaifamirza0.github.io)
