@@ -41,12 +41,6 @@ I'm a Flutter + Backend engineer with **2.5 years** of experience building real 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Languages**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -97,12 +91,18 @@ Cross-platform Flutter app with AI features and rich multimedia experiences.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Experience at a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifamirza0&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifamirza0&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+| | |
+|---|---|
+| 💼 **Experience** | 2.5+ years building production apps at startups |
+| 📱 **Apps Shipped** | 5+ production apps (iOS & Android) |
+| 🏗️ **Biggest Project** | 19-module Spring Boot + GraphQL backend + 2 Flutter apps |
+| 🌍 **Scale** | App serving 33,000+ locations across 50+ categories in the US |
+| 💰 **Revenue Generated** | $10,000+ in 3 months from published apps |
+| 🤖 **AI in Production** | Vision AI · ML Kit OCR · Image Segmentation · LLM APIs |
+
+> 💡 Most of my commits live in company org repos — the green squares here don't tell the full story!
 
 ---
 
