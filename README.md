@@ -113,6 +113,11 @@ Cross-platform Flutter app with AI features and rich multimedia experiences.
   <img src="https://streak-stats.demolab.com?user=huzaifamirza0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifamirza0&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifamirza0&theme=tokyonight" height="180" />
+</p>
+
 ---
 
 ## 💬 Let's Connect
