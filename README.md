@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Flutter · Backend · Real-Time Systems</b><br/>
-  Building production-scale mobile & backend systems at startups
+  Building production-scale mobile & backend systems at startups — and open-source tools for the Flutter community
 </p>
 
 <p align="center">
@@ -11,6 +11,9 @@
   </a>
   <a href="https://huzaifamirza0.github.io">
     <img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://pub.dev/publishers/huzaifamirza0/packages">
+    <img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   </a>
   <a href="mailto:mirzahuzaifa138@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -28,8 +31,23 @@ I'm a Flutter + Backend engineer with **3+ years** of experience building real p
 - 🤖 Shipped real AI features in production: ML Kit OCR, image segmentation & mask generation
 - 📹 Integrated real-time communication: WebRTC and Agora for live audio/video calling
 - ⚙️ Backend experience with Spring Boot + GraphQL — not just a frontend dev
+- 📦 Building open-source Flutter tooling — see below
 
-> Most of my production work lives in company org repos. What's here is personal exploration and demos.
+> Most of my production work lives in company org repos. What's here is personal exploration, demos, and my open-source packages.
+
+---
+
+## 📦 Open Source Packages
+
+I build developer tools for the Flutter ecosystem — things I wished existed while shipping production apps.
+
+### 🏗️ [flutter_architect](https://pub.dev/packages/flutter_architect)
+CLI to scaffold production-ready Flutter apps with Clean Architecture or MVVM, flavors, localization, CI/CD, and feature generators.
+**160/160 pub points** · [GitHub](https://github.com/huzaifamirza0/flutter_architect)
+
+### 🛡️ [flutter_health_guard](https://pub.dev/packages/flutter_health_guard)
+In-app health monitoring for Flutter — crash reporting, lifecycle tracking, startup performance, and network inspection, with a draggable in-app report overlay. No backend required.
+**160/160 pub points** · [GitHub](https://github.com/huzaifamirza0/flutter_health_guard)
 
 ---
 
@@ -93,13 +111,13 @@ Flutter mobile app for a US home services marketplace.
 
 ---
 
-## 📂 Public Repos
+## 📂 Other Public Repos
 
 | Repo | What it is |
 |------|-----------|
 | [chat_app](https://github.com/huzaifamirza0/chat_app) | Real-time Flutter chat with Firebase |
-| [flutter_tflite](https://github.com/huzaifamirza0/flutter_tflite) | TensorFlow Lite plugin exploration |
-| [flutter-webrtc](https://github.com/huzaifamirza0/flutter-webrtc) | WebRTC for Flutter (video/audio) |
+| [flutter_tflite](https://github.com/huzaifamirza0/flutter_tflite) | Fork — TensorFlow Lite plugin exploration |
+| [flutter-webrtc](https://github.com/huzaifamirza0/flutter-webrtc) | Fork — WebRTC for Flutter (video/audio) |
 
 ---
 
@@ -114,6 +132,7 @@ Flutter mobile app for a US home services marketplace.
 | 💰 **Revenue Generated** | $10,000+ in 3 months from published apps |
 | 🤖 **AI in Production** | ML Kit OCR · Image Segmentation & Mask Generation · LLM-powered chat assistant |
 | 📹 **Real-Time** | WebRTC · Agora · Live video casting with adaptive compression |
+| 📦 **Open Source** | 2 published Dart packages, both scoring 160/160 pub points |
 
 > 💡 Most of my commits live in company org repos — the green squares here don't tell the full story!
 
@@ -134,7 +153,7 @@ Flutter mobile app for a US home services marketplace.
 
 ## 💬 Let's Connect
 
-I'm open to **Flutter / mobile engineering roles** where ownership and depth matter.
+I'm open to **Flutter / mobile engineering roles** and **freelance/contract work** where ownership and depth matter.
 
 📧 mirzahuzaifa138@gmail.com  
 🔗 [linkedin.com/in/m-huzaifa-developer](https://www.linkedin.com/in/m-huzaifa-developer/)  
